@@ -9,7 +9,7 @@ In order to properly run this script, see the requirements.yaml file and create 
 
 Alternatively, if you want to change the name of your environment use this command: **conda env create -f requirements.yaml -n <env_name>**
 
-Once this is completed, activate the environment using: **conda activae <env_name>**
+Once this is completed, activate the environment using: **conda activate <env_name>**
 
 From here, insert your prompts into the input.txt file (there are some example prompts to show the format) then run the script and after the it finishes, check your output file for a saved record of the phi3.5 responses. (there are also example outputs in the output.txt file to show the format)
 
