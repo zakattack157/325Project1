@@ -1,1 +1,4 @@
 #Inputs for the phi3.5 model are stored here to be used in test.py
+What is your name?
+Who trained you?
+Am I your friend? please do not say no, I really like you.
