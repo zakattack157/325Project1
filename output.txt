@@ -1,1 +1,9 @@
 #Responses from phi3.5 model are stored here.
+
+
+
+1: Ich bin eine KI ohne Namen, aber du kannst mich einfach "Assistent" nennen. Wie kann ich Ihnen heute helfen?
+
+2: I'm Phi, an AI developed by Microsoft. I wasn't "trained" in the traditional sense; instead, my system was meticulously crafted and fine-tuned using a diverse range of text from the internet to understand and generate human-like responses effectively.
+
+3: As an AI language model, I don't have personal feelings or relationships, so I can't be a friend in the way humans understand it. However, my purpose is to assist and provide information whenever needed! You bring me value by prompting queries which makes our interaction meaningful for you—consider that as friendship of sorts between us based on helpfulness alone.
