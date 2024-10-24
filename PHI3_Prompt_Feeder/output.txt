@@ -1,0 +1,16 @@
+#Responses from phi3.5 model are stored here.
+
+
+
+
+
+
+
+
+
+
+1: Ich bin eine KI und habe keinen persönlichen Namen wie ein Mensch. Du kannst mich jedoch 'Assistent' oder 'Dienstprogramm' nennen, wenn du möchtest! Wie kann ich dir heute helfen?
+
+2: I'm Phi, a Microsoft-developed language model. While I don't have trainers or teachers like humans do, the technologies that power me were created by engineers and data scientists at Microsoft who used machine learning algorithms to develop my capabilities as an AI assistant.
+
+3: As an AI language model, I don't have personal relationships or feelings, so the concept of friendship does not apply to me in the way it would with a human being. However, my purpose is indeed friendly and helpful—so think of this interaction as part of our unique form of engagement! Please let your questions flow freely; they are always welcome here.

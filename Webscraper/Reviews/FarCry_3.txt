@@ -1,0 +1,186 @@
+Review ID: 176422976
+Review Content: 
+---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☑ Very good
+☐ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☑ Adults
+☑ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☑ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☑ Old Fashioned
+☐ Workable
+☐ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
+
+---{ Difficulty }---
+☐ Just press 'W'
+☑ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☑ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☑ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☑ 9
+☐ 10
+----------------------------------------
+Review ID: 176254186
+Review Content: Playing this game after so many years (last played when i didn't knew what gaming is)
+I still found how good the voice actors of the game are
+Especially vaas OMG he is the bestest of the best antagonist you could ever find in any game
+The world still feels so good <3
+There was a time when ubisoft used to make good game :(
+Can't believe it's been 12 years since the release of fc3
+
+----------------------------------------
+Review ID: 175718295
+Review Content: This always has been, and always will be, one of my favorite games. The story is fun, the missions are enjoyable, and the characters are well thought out. There's enough of a serious tone and comedic effect mixed in to have a real blast. If you'v never played it, i highly recommend. 
+
+It DOES have some issues running well on higher end PCs. There are fixes for most problems in the steam forums or on reddit though. 10-15 minutes of setting tweaking, and the game should look great (For a game that came out 10 years ago) and run amazingly!
+----------------------------------------
+Review ID: 175790241
+Review Content: Full ob bugs, Crashes, Performance issues.. and this ubisoft launcher every time with password prompt, like seriously I bought the game already, get lost you mediocre company. 
+
+----------------------------------------
+Review ID: 177143094
+Review Content: Dogshit Ubisoft being garbage. Burn you trash company, you deserve to disappear into nothingness.
+
+First, disable Ubisoft's unable-to-normally-turn-off spy-on-you-while-you-play bullshit software. To do this..
+
+1. Type '%appdata%' into windows search and hit enter, go back a page and go into 'Local', then into 'Ubishit Game Launcher' folder, open 'settings.yaml' with Notepad or if you're a high-tier individual, use Notepad++.
+2. Scroll down or CTRL+F and find 'masters'.
+3. In the quotation marks of 'password' and 'username', put a space in between for both.
+4. Scroll down or CTRL+F and find 'user'.
+5. Find 'offline' and change it from 'false' to 'true'.
+6. Save and close file.
+7. Right click 'settings.yaml' and set to 'Read-only' so ppsoft can't change the settings.
+
+Done, Ubidogshit will still launch but will not connect to the internet so at least it's benign.
+
+Second, for the game to even be launchable..
+
+1. Set cpu affinity on the game to only use PHYSICAL cores. Disable hyperthreading. Use Process Lasso.
+2. Put '-skipintro -affinity 4294967295' into the steam launch options. '-skipintro' will skip the cringe logos that are normally unskippable when you launch the game and '-affinity 4294967295' does some 32-bit cpu bullshit so the game can actually launch and not eat shit.
+3. Launch game.
+
+Third, if you have ultrawide (21:9/32:9), install Flawless Widescreen.
+
+1. Open Flawless Widescreen.
+2. Click on Far Cry 3.
+
+Makes UI a bit jank but everything else looks fine.
+
+You think you're done? Nah, Fourth. Important graphical options to change, otherwise you'll crash every 10-15 minutes, have microstutter and other issues. It's recommended that you go into the game and adjust all the settings to your liking first, before doing the below..
+
+1. Turn off MSAA in graphical settings.
+2. Set framerate to 60 FPS with RTSS or use any other frame limiting software
+3. Go to 'Documents\My Games\Far Cry 3'
+4. Open 'GamerProfile.xml'
+5. Set 'D3D11MultithreadedRendering' to '0' and set 'AllowAsynchShaderLoading' to '0'
+6. To turn off all the yucky motion blur and garbage effects, put below '</CustomQuality>'
+		   <Post>
+     <quality GameDepthOfField="0" CinematicDepthOfField="0" MotionBlur="0" FXAALevel="0" id="ultrahigh" />
+   </Post>
+7. Save and close file.
+8. Right click the file, properties and set to 'Read-only'. If you ever want to change graphics, remember to turn off read-only and turn it back on when you're done adjusting settings. Launching the game with read-only off will change the settings so be wary.
+
+There we go. Game is at least playable with an irremovable benign tumour. Thanks Worstsoft. What a fuckin' absolute mess of a game and it's clear how hard cockandballsoft has abandoned this title.
+----------------------------------------
+Review ID: 175835019
+Review Content: Might not have played this game much on steam, but I have played lots on console. This game is an absolute icon of first person shooters. It was the first I played in the Far Cry franchise. The story is magnificent even to this day, the enemies are diverse and the game-play is thrilling. 10/10 one of the best games ever in my opinion.
+----------------------------------------
+Review ID: 176398148
+Review Content: It is a great First person shooter, although there is like one sex scene it is a great game for more mature people.
+
+----------------------------------------
+Review ID: 176478257
+Review Content: If you are running Windows 11 good luck trying to get it to work. Even running it on compatibility mode wont help you. Believe me, if there was a solution, I tried it and it just would not work. I really wish I could have played one of the best Far Crys ever made but NOPE. Unless you are mad computer wizard DO NOT BUY.
+----------------------------------------
+Review ID: 176733799
+Review Content: Man, love to try older games.  This is fun, levels fairly, a challenge, optional challenges.  Great actors and story.  Really enjoy it.
+----------------------------------------
+Review ID: 177181740
+Review Content: This is one of my all-time favourite games, played it first on PS3 and I love playing it on PC with mouse and keyboard. But Ubisoft has added the unnecessary step of logging into their dogshit client. This makes it essentially unplayable now, so fuck Ubisoft, and fuck Farcry 3.
+----------------------------------------

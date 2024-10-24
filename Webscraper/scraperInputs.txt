@@ -1,0 +1,20 @@
+#The following are the app ID's for each respective game's user reviews
+#These ID's are used to tell the steam API what game to find and return the user reviews
+
+#FarCry https://store.steampowered.com/app/13520/Far_Cry/?curator_clanid=34004029 
+13520
+
+#FarCry 2 https://store.steampowered.com/app/19900/Far_Cry_2/
+19900
+
+#FarCry 3 https://store.steampowered.com/app/220240/Far_Cry_3/
+220240
+
+#FarCry 4 https://store.steampowered.com/app/298110/Far_Cry_4/
+298110
+
+#FarCry 5 https://store.steampowered.com/app/552520/Far_Cry_5/
+552520
+
+#FarCry 6 https://store.steampowered.com/app/2369390/Far_Cry_6/
+2369390
