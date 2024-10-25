@@ -24,3 +24,5 @@ This webscraper is handled by grabbing inputs from an input file (scraperInputs.
 Note: There are 6 example pieces of software inside the scraperInputs.txt file. If you wish to change this or add your own games/software to this file, simply click **[This](https://steamdb.info/ "SteamDB Homepage")** link to access the SteamDB website. Here, you can simply type in the software you would like to parse and grab its associated AppID from the far left column.
 
 Once you have inserted the software you would like to parse, run the webscraper.py file, this will create output files with the software's name inside of the **Reviews** directory.
+
+(In order to be able to send the GET request to the Steam store pages, the requests python package is being implemented. If you would like to learn more about the requests package click **[here](https://pypi.org/project/requests/ "Requests Package Documentation")**)
