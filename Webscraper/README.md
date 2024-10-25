@@ -21,6 +21,6 @@ If not done yet, please reference back to step 1 for cloning the python environm
 
 This webscraper is handled by grabbing inputs from an input file (scraperInputs.txt) where a user can input AppIDs. These AppIDs are in-house identification numbers that Steam uses to identify every individual application that is downloadable through the Steam store.
 
-Note: There are 6 example pieces of software inside the scraperInputs.txt file. If you wish to change this or add your own games/software to this file, simply click **[This](https://steamdb.info/ "SteamDB Homepage)** link to access the SteamDB website. Here, you can simply type in the software you would like to parse and grab its associated AppID from the far left column.
+Note: There are 6 example pieces of software inside the scraperInputs.txt file. If you wish to change this or add your own games/software to this file, simply click **[This](https://steamdb.info/ "SteamDB Homepage")** link to access the SteamDB website. Here, you can simply type in the software you would like to parse and grab its associated AppID from the far left column.
 
 Once you have inserted the software you would like to parse, run the webscraper.py file, this will create output files with the software's name inside of the **Reviews** directory.
