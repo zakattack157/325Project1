@@ -1,56 +1,10 @@
-Review ID: 175959235
-Review Content: I was enjoying the game. Its Far Cry so I knew what to expect. Every new game is a little different, but the core of it is always pretty much the same. But that's fine. It works for me.
-
-HOWEVER
-
-Ubisoft Connect (which you are required to use even if you bought the game on Steam) is complete and utter trash. It started with a simple "cannot sync saves" bug. Then I couldn't log in to Ubisoft Connect but could still play offline. Now I cannot log into the platform at all, and it will no longer let me play the game in any way.
-
-I don't know why Steam puts up with this. They are selling the game, and Ubisoft presumably takes their cut. There's no reason to tolerate this double platform nonsense...especially when the second one is broken garbage.
-
-TLDR: Game is good, but buying it here is just risking a miserable experience with Ubisoft Connect.
+Review ID: 178238538
+Review Content: The story is a bit dull and most characters you interact with, are plain annoying. The gameplay can be fun at first, but quickly gets repetitive. The world is large enough, but still feels empty. No skills and poor weapon choice. The game does have some ok ideas and can be a fun way to spend a weekend, but overall, it's nowhere as good as the previous Far Cry games.
 ----------------------------------------
-Review ID: 176035140
-Review Content: Such a parody of itself that its painful to experience. While trying to have a somewhat serious story line, the game constantly shoots itself in the foot with absurd and stupid decisions. Between the ridiculous  companions choices and the over the top cartoonish gameplay, I really don't understand where they were going with this? Like they tried to make it like a Just cause game, but failed horribly... The only thing it accomplished is making me want to play the good games in the series....
-----------------------------------------
-Review ID: 176061917
-Review Content: I have played all of the Far Cry games that have ever came out, by a large distant this is the worst one they have ever made. The story has some amazing parts but half of it is a complete mess and a huge waste of the players time and ultimately holds no part in any major decision. Half of the main "characters" could've had half their missions removed and still been as interesting, but alas we have to give all these lame n unoriginal characters a story because modern day representation has to exist.
+Review ID: 178661796
+Review Content: This game does not feel like a far cry title. It feels like a hollow shell of what far cry should be. Simply put, single player MTX ruined another Ubisoft title.
 
-Actual gameplay is actually one of the few good things, just like all other farcry games it holds great rewards for skilled players, guns are fun and all have their own use, being able to switch arsenal mid mission again is amazing and I actually like the difficulty from most the missions.
-
-Enemy AI is the usual 50/50, sometimes its great and sometimes its trash. The usual Ubisoft stuff.
-However, enemy control in this game is flawed, some places you just cannot take over no matter what you do because "uhh game said no" with no reasonable explanation.  The AIR control cannons are a bit of a joke, can clear them without actually even taking the base and all the special stuff you can get from it is mostly useless.
-
-Vehicle control is the exact same as all other games, 0 complaints there.
-
-Hunting has became absolutely pointless, same with fishing. There is no need to even consider doing either as there is no good reason or perks from doing so, just another time waste. Which is a shame because old games made those methods of gathering resources worth while.
-
-The voice acting was amazing, super well done and I found 0 issues with anything audio related during the playthrough.
-
-Over all, game just felt bland compared to old Farcry titles, most of the story felt forced, the boring inclusion of characters that had to be special and have "woke/dei" meanings behind them all felt super forced, lame and honestly for the south park reference... "GAY". 
-
-4/10. Worst Farcry to date.
-
-Let's hope 7 is better.
-----------------------------------------
-Review ID: 176934321
-Review Content: This is more good Far Cry fun! It's a solid game from Ubi with a nice storyline, good gameplay and great tropical scenario with very well designed world of Yara including the culture with tons stuff to do (the only main con I found is many times the world around you gets chaotic like for no reason with random NPC actions and its overwhelming the car honking). Overall I think its better and more complete than FC5
-----------------------------------------
-Review ID: 177069394
-Review Content: If you enjoy putting 60 bullets in one enemy, this is the game for you. Taking time for a headshot? Forget it, takes three. Gameplay is horrible. "Crafting" is a silly mechanic. Also, can't customize your player at all, which is a bummer. Co-op is kind of fun, but nothing like the other Far Cry we played. I recommend playing 5 and skip getting 6.
-----------------------------------------
-Review ID: 177030732
-Review Content: I've the same complaints like everyone else - copy-paste missions, flat and boring story, boring world, the list goes on. Graphics is not great either. I've no more motivation to continue playing this copy-paste game. Don't want to say anything more and look like an idiot for buying this.
-----------------------------------------
-Review ID: 177160274
-Review Content: The game is good 
-Got a bit bored of it tho
-i will for sure pick it back up in the future but the lack of achievements is not motivating me to play or 100% the game sadly
-(might be only me but without achievements it`s not the same vibe)
-
-P.S. i hate the fact that they force UbiConect down your throat
-----------------------------------------
-Review ID: 176840398
-Review Content: ---{ Graphics }---
+---{ Graphics }---
 ☐ You forget what reality is
 ☐ Beautiful
 ☑ Good
@@ -61,8 +15,8 @@ Review Content: ---{ Graphics }---
 
 ---{ Gameplay }---
 ☐ Very good
-☑ Good
-☐ It's just gameplay
+☐ Good
+☑ It's just gameplay
 ☐ Mehh
 ☐ Watch paint dry instead
 ☐ Just don't
@@ -78,16 +32,25 @@ Review Content: ---{ Graphics }---
 ---{ Audience }---
 ☐ Kids
 ☑ Teens
-☐ Adults
+☑ Adults
 ☐ Grandma
 
 ---{ PC Requirements }---
 ☐ Check if you can run paint
 ☐ Potato
-☑ Decent
-☐ Fast
+☐ Decent
+☑ Fast
 ☐ Rich boi
 ☐ Ask NASA if they have a spare computer
+
+---{ Game Size }---
+☐ Floppy Disk
+☐ Old Fashioned
+☐ Workable
+☑ Big
+☐ Will eat 10% of your 1TB hard drive
+☐ You will want an entire hard drive to hold it
+☐ You will need to invest in a black hole to hold all the data
 
 ---{ Difficulty }---
 ☐ Just press 'W'
@@ -108,8 +71,8 @@ Review Content: ---{ Graphics }---
 ---{ Story }---
 ☐ No Story
 ☐ Some lore
-☐ Average
-☑ Good
+☑ Average
+☐ Good
 ☐ Lovely
 ☐ It'll replace your life
 
@@ -123,8 +86,8 @@ Review Content: ---{ Graphics }---
 ---{ Price }---
 ☐ It's free!
 ☐ Worth the price
-☑ If it's on sale
-☐ If u have some spare money left
+☐ If it's on sale
+☑ If u have some spare money left
 ☐ Not recommended
 ☐ You could also just burn your money
 
@@ -139,17 +102,13 @@ Review Content: ---{ Graphics }---
 ☐ 1
 ☐ 2
 ☐ 3
-☐ 4
+☑ 4
 ☐ 5
 ☐ 6
-☑ 7
+☐ 7
 ☐ 8
 ☐ 9
 ☐ 10
-----------------------------------------
-Review ID: 177492563
-Review Content: new type of far cry not bad i liked it and enjoy the story i recommend it for people who enjoy the story games
-----------------------------------------
-Review ID: 177479287
-Review Content: Got this game on a very cheap deal and all I can say is thank God I didn't have to pay more. The island of Yara is dull, geographically uninteresting with (even by Far Cry standards) ridiculous stereotypes. Graphics are poor and AI is dreadful. The plot is paper thin and even the use of star power for the main villain does nothing. I put a lot of time into the game, hoping that it would improve, but it was truly awful and the ending is shockingly bad. Far Cry used to be clever with its endings but not FC6. Get it on a deal of a tenner or less and waste some time but don't put any more money into it.
+ 
+
 ----------------------------------------

@@ -1,65 +1,80 @@
-#Requests import to send get requests to urls
 import requests
+import os
 
-#Calls the Steamworks API to gather the name of game associated with AppID
-def get_game_name(app_id):
-    url = f"https://store.steampowered.com/api/appdetails?appids={app_id}"
-    response = requests.get(url)
-
-    if response.status_code == 200:
-        data = response.json()
-        if data[str(app_id)]['success']:
-            return data[str(app_id)]['data']['name']
-        else:
-            return "Unknown Game" 
-    else:
-        return "Failed to retrieve game name"
-
-#Calls Steamworks API to gather user reviews of AppID
-def get_steam_reviews(app_id, language='english', num_reviews=10):
-    url = f"http://store.steampowered.com/appreviews/{app_id}"
-    parameters = {
-        "json": 1,
-        "language": language,
-        "num_per_page": num_reviews
-    }
-
-    #Sends get request to Steam store page of requested application to grab user reviews in JSON format
-    response = requests.get(url, params=parameters)
-
-    if response.status_code == 200:
-        data = response.json()
-        if 'reviews' in data:
-            reviews = data['reviews']
-            return reviews
-        else:
-            return "No reviews found."
-    else:
-        return f"Failed to retrieve reviews. Status Code: {response.status_code}"
-
-#Opens the input file that holds each apps AppID
-input_file = open("Webscraper/scraperInputs.txt", "r")
-
-#Reads through each line of the input file ignoring comments starting with '#'
-for line in input_file:
+class SteamApp:
     
-    app_id = line.strip()
+    def __init__(self, app_id):
+        self.app_id = app_id
+        self.name = self.get_game_name()
 
-    if not app_id or app_id.startswith('#'):
-        continue
+    def get_game_name(self):
+        #uses steamID with steamworks API to get game name
+        url = f"https://store.steampowered.com/api/appdetails?appids={self.app_id}"
+        response = requests.get(url)
+
+        if response.status_code == 200:
+            data = response.json()
+            if data[str(self.app_id)]['success']:
+                return data[str(self.app_id)]['data']['name']
+        return "Unknown Game"
+
+    def get_reviews(self, language='english', num_reviews=2):
+        #uses steamID with steamworks API to get game reviews
+        url = f"http://store.steampowered.com/appreviews/{self.app_id}"
+        parameters = {
+            "json": 1,
+            "language": language,
+            "num_per_page": num_reviews
+        }
+
+        response = requests.get(url, params=parameters)
+        if response.status_code == 200:
+            data = response.json()
+            return data.get('reviews', [])
+        return []
+
+    def save_reviews(self, output_dir="Webscraper/Reviews"):
+        
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+
+        sanitized_name = self.name.replace(' ', '_')
+        output_file = os.path.join(output_dir, f"{sanitized_name}.txt")
+
+        reviews = self.get_reviews()
+
+        with open(output_file, "w", encoding="utf-8") as file:
+            if not reviews:
+                file.write("No reviews found.\n")
+            else:
+                for review in reviews:
+                    file.write(f"Review ID: {review['recommendationid']}\n")
+                    file.write(f"Review Content: {review['review']}\n")
+                    file.write("-" * 40 + "\n")
+        print(f"Saved reviews for {self.name} to {output_file}")
+
+
+class SteamReviewScraper:
     
-    #Calls function to grab apps name
-    game_name = get_game_name(app_id)
+    def __init__(self, input_file):
+        self.input_file = input_file
 
-    #Creates output file that will hold the respective apps user reviews
-    file = open(f"Webscraper/Reviews/{game_name.replace(' ','_')}.txt", "w")
+    def parse_app_ids(self):
+        #Reads input file to get steamIDs for games
+        with open(self.input_file, "r") as file:
+            app_ids = [line.strip() for line in file if line.strip() and not line.startswith('#')]
+        return app_ids
 
-    
-    reviews = get_steam_reviews(app_id)
+    def scrape_reviews(self, output_dir="Webscraper/Reviews"):
+        #Gets the reviews and saves them to their respective games output file
+        app_ids = self.parse_app_ids()
+        for app_id in app_ids:
+            app = SteamApp(app_id)
+            app.save_reviews(output_dir=output_dir)
 
-    #Writes each individual review to their respective output file
-    for review in reviews:
-        file.write(f"Review ID: {review['recommendationid']}\n")
-        file.write(f"Review Content: {review['review']}\n")
-        file.write("-" * 40 + "\n")
-    file.close()
+
+# Usage example
+if __name__ == "__main__":
+    input_file = "Webscraper/scraperInputs.txt"
+    scraper = SteamReviewScraper(input_file)
+    scraper.scrape_reviews()

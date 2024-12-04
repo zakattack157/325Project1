@@ -1,78 +1,18 @@
-Review ID: 176036244
-Review Content: stealth mechanic is busted. some enemies have very frustrating ai like rocket launcher guys. I decided to play this game because I love far cry 3 and classic games in general, also it was on good sale, but I didn't really enjoy this one.
+Review ID: 178430961
+Review Content: Far Cry was the first video game I played, and it left a lasting impression. I vividly remember playing it on an old, underpowered PC during my 9th-grade years. My routine was to attend early morning Church communion classes, then hurry back home, eager to dive into the game. Those were truly memorable times.
+
+The missions were challenging, and the creatures were genuinely terrifying. The game featured tough, imposing soldier enemies with that classic American, muscular look.
+
+However, it was the background music that truly set the atmosphere, adding an eerie, suspenseful tone that permeated every scene. I’m grateful to Crytek for publishing such an exceptional game, and I hope the next Far Cry installment introduces non-human foes like the iconic Trigens once again.
 ----------------------------------------
-Review ID: 176051285
-Review Content: I started this game with some scepticism because it is fairly old. However, if you give it a chance, you get used to the graphics and the game play comes alive. A fantastic, tense, tactical shooter. I was totally hooked. Great value for money also, a long campaign game to play.
-----------------------------------------
-Review ID: 176145097
-Review Content: Experience – First Time
+Review ID: 179856317
+Review Content: Great game! 
 
-World/Setting – 8.5/10
-Story – 6/10
-Music – 7.5/10
-Gameplay – 9/10
+Kind of like a blend between Crysis and Half life.
 
-Overall Review – 7.5/10
-One Line Review – Hardest FPS Game
+One thing though: If you are playing this in 3440x1440 like I did, you may have huge problems actually hitting anything with your guns. Other people in videos on youtube seemed to hit the enemies from a long distance. I had to practically stand right beside them!
 
-World/Setting
-The World of Far Cry 1 is as diverse as you can imagine. I don’t want to spoil all the different settings, because it’s better to experience it firsthand. But to give you an idea: the game starts in a jungle, and ends on a volcano. That should be enough to tell you about the crazy places the game takes you in.
+Then it hit me like a ton of bricks: This game was written in 2004, there were no screens in ultrawide back then. Maybe the targetting code in the game calculates the drift of bullets and targetting line from normal old screens with 4x3 aspect ratios and a lot lower resolutions that were common in 2004.
 
-Story
-The story is as generic as you can imagine. Think of a Chessy 80’s action sci-fi movie: you are 1 against 100s even 1000s of mercenaries. You start your journey on the premise, that you have to save a damsel in distress. But as you go deeper in to the jungle, the plot thickens, and pretty soon you are saving the World too!! The point is: don’t play the game for the story, play it for it’s game play.
-
-Music
-The music was great!! I loved the theme music. I loved all the background music that plays in the game. Although, sometimes it can over power what is happening on screen, sometimes! 
-
-Gameplay
-I loved it! 
-
-Pros
-The biggest pro for this 2004, almost 20 years old game is: the difficulty. I cannot remember the last time I played such a ‘challenging’ fps game. Every step you take: you will check your corners. You will scout; then plan your attack. You will die multiple times, sometimes in double figures, on a single mission!! But you will push forward, because you will love the challenge. And you need that dopamine hit. Dark Souls players know about this feeling. 
-
-Cons
-The game, sadly, is not without it’s flaws. The biggest one, in my opinion, was the stamina bar. Why… why do you need to bind jumping to stamina? And why does it deplete so fast? Aforementioned issues, you notice outright; all the other issues you start noticing as the game progresses like: AI. The AI in this game was hilarious at first: Shouting “Did you see something”, when I am not even close to them; shooting through tents; having literal aim bots. After some time, it starts to feel unfair, and frankly ‘annoying’. Some of the missions are outright broken like: the infamous ‘swamp car chase’, that you can’t even complete without an exploit!
-
-P.S 
-Concise Review on my reddit: u/grimReaper1796
-----------------------------------------
-Review ID: 177296729
-Review Content: It is simply too old to run on modern systems, the npcs can shoot you through walls and they can spot you easily, also the fov... I cant play the game for more than 15 minutes because it gives me freaking headache I want to throw up
-----------------------------------------
-Review ID: 177605118
-Review Content: Farcry Instincts and the "sequel evolution" is the same story as this only MUCH MUCH better graphics and animation. I played and beat the game on my Xbox which was Evolution and trust me if you want a harder original Farcry game go with Instincts/Evolution due to the bad guys wont just run into the hut you are in and die just as they pass you. In Instincts/Evolution they are able to shoot through the cracks in the buildings(if any) and if you are prone in the game you can flip onto your back and shoot through the floors at the enemy and the story is some what better told in the beginning of Instincts/Evolution which the doctor lady on boat basically says hey I'm just going to take your Jet ski and go around a bit to scout around the island and you are like ok fine and you take a nap only to be woken up by a helicopter gunning you down. This game of Farcry it showed a guy shoot a rocket launcher at Jack Carver sometime after the lady in the swimsuit takes your Jet ski. so yeah if you want a better dialogue opening go with Instincts/Evolution if you want to make up a funny story for the opening go with this game.
-----------------------------------------
-Review ID: 177385988
-Review Content: I loved this game overall. The graphics are impressive considering it is a game from 2004. There are no distractions like skins, outfits or any sort of collectable items and the game play is focused on the story. The weapon mechanics is very good. The game is difficult as the AI is challenging. I played this on medium setting and still faced a good challenge.
-I would recommend it to anyone who likes a solid FPS experience and can forgive some silly story points.
-----------------------------------------
-Review ID: 177110612
-Review Content: NOTES - NOT A REVIEW YET
-
-Playing with patch 1.33 on Normal and good amount of manual saves
-
-The game is addictive and fun but can be frustrating. 
-
-Difficulty fluctuates a lot. From easy to hard very often. You gotta redo the same segment multiple times mainly because armor sometimes drops inconsistently and it's very easy to lose hp or armor if you get spotted. On the other hand, if you shoot first and can see your enemy well, it's not too hard. You also become more familiar with how the game works so it becomes easier and more fun.
-
-Stamina bar : there shouldn't be a limited amount of stamina. Simply makes the game slower and more annoying when walking in large areas.
-
-Rocket launcher : why doesn't it destroy a helicopter with 1 missile? Disappointing.
-
-Ladders : hard not to fall when using them. Poorly programmed.
-
-Driving : very sensitive driving. Might not be as bad as Just Cause 1 (which I recently played), but not good either.
-
-In summary, what I notice with this game is the same problem as Red Faction : inconsistency. Still fun though and I prefer it to Red Faction.
-----------------------------------------
-Review ID: 176454160
-Review Content: This was a game well ahead of its time. While the graphics can't compete with Unreal 5, there are a lot of mechanics way ahead of FPS games even today. AI is pretty competent, trying to flank you and surround you; extensive use of vehicles, surround-like sound making your job a bit easier, and really nicely modeled WWII relics. It is also longer than you would expect, and while the story isn't the best, it is sufficient for a linear game.
-----------------------------------------
-Review ID: 176310332
-Review Content: I think the game is fun and challenging for an old game. The graphics are old, as expected. If you play it to know more about the story then go for it but online does not work anymore prob cause nobody plays it. HF!
-----------------------------------------
-Review ID: 176105466
-Review Content: Note, while I have been enjoying it, I have also found it extremely difficult. Have had to repeat certain sections 10 or more times to get through, and this is on Realistic difficulty. Enemies can sometimes shoot through walls/tents when they should not even be able to see you.  Enemies are also very aggressive and will use stealth when searching for you. Not for the faint of heart.
-
-Found there is an unofficial patch on moddb for 1.4, Keeps AI from shooting through tents where they can't see. Was a definite help.
+So i turned down the resolution to 1920 x 1080 and it feels like the targetting and hitting suddenly became a lot easier, problem solved :-)
 ----------------------------------------
