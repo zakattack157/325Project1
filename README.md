@@ -12,7 +12,6 @@ Alternatively, if you want to change the name of your environment use this comma
 
 Once this is completed, activate the environment using: **conda activae <env_name>**
 
-From here, insert your prompts into the input.txt file (there are some example prompts to show the format) then run the script and after the it finishes, check your output file for a saved record of the phi3.5 responses.
 
 ## STEP 2, Steam game webscraping setup:
 The second phase of this project is the implementation of a webscraper that parses the Steam store via the Steamworks api. 
@@ -23,6 +22,18 @@ This webscraper is handled by grabbing inputs from an input file (scraperInputs.
 
 Note: There are 6 example pieces of software inside the scraperInputs.txt file. If you wish to change this or add your own games/software to this file, simply click **[This](https://steamdb.info/ "SteamDB Homepage")** link to access the SteamDB website. Here, you can simply type in the software you would like to parse and grab its associated AppID from the far left column.
 
-Once you have inserted the software you would like to parse, run the webscraper.py file, this will create output files with the software's name inside of the **Reviews** directory.
+Once you have inserted the software you would like to parse, run the webscraper.py file, this will create output files with the software's name inside of the **Reviews** directory. (Do this by running python3 webscraper.py in your terminal)
 
 (In order to be able to send the GET request to the Steam store pages, the requests python package is being implemented. If you would like to learn more about the requests package click **[here](https://pypi.org/project/requests/ "Requests Package Documentation")**)
+
+## STEP 3, Running The Model and Viewing Output:
+Now that the Webscraper and PHI3.5 model are both properly setup, it is time to run the files and get an output!
+
+Starting out, make sure you have followed the steps outlined in STEP 2 so you have reviews from the steam store to give to the PHI model.
+
+Now simply run python3 PHIreader.py in your terminal under the PHI3_Prompt_Feeder directory to start the model reading process. (NOTE: this can take a while depending on how many reviews you have set up to read!)
+
+Once this has finished, all files can be viewed in the output.txt file under the PHI3_Prompt_Feeder directory. There is also a nice graph that shows how many positive, negative, or neutral reviews the model has found throughout the reviews.
+
+## STEP 4(OPTIONAL), Testing:
+If you would like to I have included a pytest file named PHIpytest.py in the PHI3_Prompt_Feeder directory that can be ran for unit testing!
