@@ -35,5 +35,10 @@ Now simply run python3 PHIreader.py in your terminal under the PHI3_Prompt_Feede
 
 Once this has finished, all files can be viewed in the output.txt file under the PHI3_Prompt_Feeder directory. There is also a nice graph that shows how many positive, negative, or neutral reviews the model has found throughout the reviews.
 
+Here is an example of the Graph with the current test data!
+
+![AltText](sentiment_analysis_master_chart.png)
+
+
 ## STEP 4(OPTIONAL), Testing:
 If you would like to I have included a pytest file named PHIpytest.py in the PHI3_Prompt_Feeder directory that can be ran for unit testing!
